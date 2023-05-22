@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194080793766",
+    "project_id": "horget-d0af0",
+    "storage_bucket": "horget-d0af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194080793766:android:0b30268e16340f439ac067",
+        "android_client_info": {
+          "package_name": "com.horget.horget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194080793766-ii2rct65d8dfi5hieo2r9jgcb0bg8rov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi2Kgvs2GQyPKkad10YHHIsXDp9i5a_S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194080793766-ii2rct65d8dfi5hieo2r9jgcb0bg8rov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
